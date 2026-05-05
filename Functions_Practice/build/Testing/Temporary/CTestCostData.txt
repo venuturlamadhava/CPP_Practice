@@ -1,0 +1,13 @@
+run_tests_NOT_BUILT 0 0
+RaiseToPowerTest.BasicExponent 1 0.00301465
+RaiseToPowerTest.ZeroExponent 1 0.00293013
+RaiseToPowerTest.ZeroBase 1 0.00214605
+SquareRootTest.PerfectSquares 1 0.00285485
+DivideTest.QuotientAndRemainder 1 0.0025816
+DivideTest.EvenDivision 1 0.00196855
+FibonacciTest.BaseCase 1 0.00291989
+FibonacciTest.KnownValues 1 0.00223896
+IncrementTest.ModifiesOriginal 1 0.00301792
+SwapTest.SwapsValues 1 0.00293889
+SwapTest.SwapTwiceRestoresValues 1 0.00265039
+---

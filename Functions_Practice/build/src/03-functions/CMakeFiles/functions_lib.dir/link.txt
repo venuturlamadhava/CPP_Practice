@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfunctions_lib.a CMakeFiles/functions_lib.dir/basic_functions.cpp.o CMakeFiles/functions_lib.dir/recursion.cpp.o CMakeFiles/functions_lib.dir/pass_by_ref.cpp.o CMakeFiles/functions_lib.dir/overloading.cpp.o
+/usr/bin/ranlib libfunctions_lib.a

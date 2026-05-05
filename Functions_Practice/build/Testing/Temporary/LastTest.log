@@ -1,0 +1,300 @@
+Start testing: Apr 24 15:29 IST
+----------------------------------------------------------
+1/11 Testing: RaiseToPowerTest.BasicExponent
+1/11 Test: RaiseToPowerTest.BasicExponent
+Command: "/home/madhava/CPP_Practice/CPP_Programs/Functions_Practice/build/tests/run_tests" "--gtest_filter=RaiseToPowerTest.BasicExponent" "--gtest_also_run_disabled_tests"
+Directory: /home/madhava/CPP_Practice/CPP_Programs/Functions_Practice/build/tests
+"RaiseToPowerTest.BasicExponent" start time: Apr 24 15:29 IST
+Output:
+----------------------------------------------------------
+Running main() from /home/madhava/CPP_Practice/CPP_Programs/Functions_Practice/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = RaiseToPowerTest.BasicExponent
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RaiseToPowerTest
+[ RUN      ] RaiseToPowerTest.BasicExponent
+[       OK ] RaiseToPowerTest.BasicExponent (0 ms)
+[----------] 1 test from RaiseToPowerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"RaiseToPowerTest.BasicExponent" end time: Apr 24 15:29 IST
+"RaiseToPowerTest.BasicExponent" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/11 Testing: RaiseToPowerTest.ZeroExponent
+2/11 Test: RaiseToPowerTest.ZeroExponent
+Command: "/home/madhava/CPP_Practice/CPP_Programs/Functions_Practice/build/tests/run_tests" "--gtest_filter=RaiseToPowerTest.ZeroExponent" "--gtest_also_run_disabled_tests"
+Directory: /home/madhava/CPP_Practice/CPP_Programs/Functions_Practice/build/tests
+"RaiseToPowerTest.ZeroExponent" start time: Apr 24 15:29 IST
+Output:
+----------------------------------------------------------
+Running main() from /home/madhava/CPP_Practice/CPP_Programs/Functions_Practice/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = RaiseToPowerTest.ZeroExponent
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RaiseToPowerTest
+[ RUN      ] RaiseToPowerTest.ZeroExponent
+[       OK ] RaiseToPowerTest.ZeroExponent (0 ms)
+[----------] 1 test from RaiseToPowerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"RaiseToPowerTest.ZeroExponent" end time: Apr 24 15:29 IST
+"RaiseToPowerTest.ZeroExponent" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/11 Testing: RaiseToPowerTest.ZeroBase
+3/11 Test: RaiseToPowerTest.ZeroBase
+Command: "/home/madhava/CPP_Practice/CPP_Programs/Functions_Practice/build/tests/run_tests" "--gtest_filter=RaiseToPowerTest.ZeroBase" "--gtest_also_run_disabled_tests"
+Directory: /home/madhava/CPP_Practice/CPP_Programs/Functions_Practice/build/tests
+"RaiseToPowerTest.ZeroBase" start time: Apr 24 15:29 IST
+Output:
+----------------------------------------------------------
+Running main() from /home/madhava/CPP_Practice/CPP_Programs/Functions_Practice/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = RaiseToPowerTest.ZeroBase
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RaiseToPowerTest
+[ RUN      ] RaiseToPowerTest.ZeroBase
+[       OK ] RaiseToPowerTest.ZeroBase (0 ms)
+[----------] 1 test from RaiseToPowerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"RaiseToPowerTest.ZeroBase" end time: Apr 24 15:29 IST
+"RaiseToPowerTest.ZeroBase" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/11 Testing: SquareRootTest.PerfectSquares
+4/11 Test: SquareRootTest.PerfectSquares
+Command: "/home/madhava/CPP_Practice/CPP_Programs/Functions_Practice/build/tests/run_tests" "--gtest_filter=SquareRootTest.PerfectSquares" "--gtest_also_run_disabled_tests"
+Directory: /home/madhava/CPP_Practice/CPP_Programs/Functions_Practice/build/tests
+"SquareRootTest.PerfectSquares" start time: Apr 24 15:29 IST
+Output:
+----------------------------------------------------------
+Running main() from /home/madhava/CPP_Practice/CPP_Programs/Functions_Practice/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = SquareRootTest.PerfectSquares
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SquareRootTest
+[ RUN      ] SquareRootTest.PerfectSquares
+[       OK ] SquareRootTest.PerfectSquares (0 ms)
+[----------] 1 test from SquareRootTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"SquareRootTest.PerfectSquares" end time: Apr 24 15:29 IST
+"SquareRootTest.PerfectSquares" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/11 Testing: DivideTest.QuotientAndRemainder
+5/11 Test: DivideTest.QuotientAndRemainder
+Command: "/home/madhava/CPP_Practice/CPP_Programs/Functions_Practice/build/tests/run_tests" "--gtest_filter=DivideTest.QuotientAndRemainder" "--gtest_also_run_disabled_tests"
+Directory: /home/madhava/CPP_Practice/CPP_Programs/Functions_Practice/build/tests
+"DivideTest.QuotientAndRemainder" start time: Apr 24 15:29 IST
+Output:
+----------------------------------------------------------
+Running main() from /home/madhava/CPP_Practice/CPP_Programs/Functions_Practice/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = DivideTest.QuotientAndRemainder
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DivideTest
+[ RUN      ] DivideTest.QuotientAndRemainder
+[       OK ] DivideTest.QuotientAndRemainder (0 ms)
+[----------] 1 test from DivideTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DivideTest.QuotientAndRemainder" end time: Apr 24 15:29 IST
+"DivideTest.QuotientAndRemainder" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/11 Testing: DivideTest.EvenDivision
+6/11 Test: DivideTest.EvenDivision
+Command: "/home/madhava/CPP_Practice/CPP_Programs/Functions_Practice/build/tests/run_tests" "--gtest_filter=DivideTest.EvenDivision" "--gtest_also_run_disabled_tests"
+Directory: /home/madhava/CPP_Practice/CPP_Programs/Functions_Practice/build/tests
+"DivideTest.EvenDivision" start time: Apr 24 15:29 IST
+Output:
+----------------------------------------------------------
+Running main() from /home/madhava/CPP_Practice/CPP_Programs/Functions_Practice/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = DivideTest.EvenDivision
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DivideTest
+[ RUN      ] DivideTest.EvenDivision
+[       OK ] DivideTest.EvenDivision (0 ms)
+[----------] 1 test from DivideTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DivideTest.EvenDivision" end time: Apr 24 15:29 IST
+"DivideTest.EvenDivision" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/11 Testing: FibonacciTest.BaseCase
+7/11 Test: FibonacciTest.BaseCase
+Command: "/home/madhava/CPP_Practice/CPP_Programs/Functions_Practice/build/tests/run_tests" "--gtest_filter=FibonacciTest.BaseCase" "--gtest_also_run_disabled_tests"
+Directory: /home/madhava/CPP_Practice/CPP_Programs/Functions_Practice/build/tests
+"FibonacciTest.BaseCase" start time: Apr 24 15:29 IST
+Output:
+----------------------------------------------------------
+Running main() from /home/madhava/CPP_Practice/CPP_Programs/Functions_Practice/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = FibonacciTest.BaseCase
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FibonacciTest
+[ RUN      ] FibonacciTest.BaseCase
+[       OK ] FibonacciTest.BaseCase (0 ms)
+[----------] 1 test from FibonacciTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"FibonacciTest.BaseCase" end time: Apr 24 15:29 IST
+"FibonacciTest.BaseCase" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/11 Testing: FibonacciTest.KnownValues
+8/11 Test: FibonacciTest.KnownValues
+Command: "/home/madhava/CPP_Practice/CPP_Programs/Functions_Practice/build/tests/run_tests" "--gtest_filter=FibonacciTest.KnownValues" "--gtest_also_run_disabled_tests"
+Directory: /home/madhava/CPP_Practice/CPP_Programs/Functions_Practice/build/tests
+"FibonacciTest.KnownValues" start time: Apr 24 15:29 IST
+Output:
+----------------------------------------------------------
+Running main() from /home/madhava/CPP_Practice/CPP_Programs/Functions_Practice/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = FibonacciTest.KnownValues
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FibonacciTest
+[ RUN      ] FibonacciTest.KnownValues
+[       OK ] FibonacciTest.KnownValues (0 ms)
+[----------] 1 test from FibonacciTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"FibonacciTest.KnownValues" end time: Apr 24 15:29 IST
+"FibonacciTest.KnownValues" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/11 Testing: IncrementTest.ModifiesOriginal
+9/11 Test: IncrementTest.ModifiesOriginal
+Command: "/home/madhava/CPP_Practice/CPP_Programs/Functions_Practice/build/tests/run_tests" "--gtest_filter=IncrementTest.ModifiesOriginal" "--gtest_also_run_disabled_tests"
+Directory: /home/madhava/CPP_Practice/CPP_Programs/Functions_Practice/build/tests
+"IncrementTest.ModifiesOriginal" start time: Apr 24 15:29 IST
+Output:
+----------------------------------------------------------
+Running main() from /home/madhava/CPP_Practice/CPP_Programs/Functions_Practice/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = IncrementTest.ModifiesOriginal
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IncrementTest
+[ RUN      ] IncrementTest.ModifiesOriginal
+[       OK ] IncrementTest.ModifiesOriginal (0 ms)
+[----------] 1 test from IncrementTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"IncrementTest.ModifiesOriginal" end time: Apr 24 15:29 IST
+"IncrementTest.ModifiesOriginal" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/11 Testing: SwapTest.SwapsValues
+10/11 Test: SwapTest.SwapsValues
+Command: "/home/madhava/CPP_Practice/CPP_Programs/Functions_Practice/build/tests/run_tests" "--gtest_filter=SwapTest.SwapsValues" "--gtest_also_run_disabled_tests"
+Directory: /home/madhava/CPP_Practice/CPP_Programs/Functions_Practice/build/tests
+"SwapTest.SwapsValues" start time: Apr 24 15:29 IST
+Output:
+----------------------------------------------------------
+Running main() from /home/madhava/CPP_Practice/CPP_Programs/Functions_Practice/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = SwapTest.SwapsValues
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SwapTest
+[ RUN      ] SwapTest.SwapsValues
+[       OK ] SwapTest.SwapsValues (0 ms)
+[----------] 1 test from SwapTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"SwapTest.SwapsValues" end time: Apr 24 15:29 IST
+"SwapTest.SwapsValues" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/11 Testing: SwapTest.SwapTwiceRestoresValues
+11/11 Test: SwapTest.SwapTwiceRestoresValues
+Command: "/home/madhava/CPP_Practice/CPP_Programs/Functions_Practice/build/tests/run_tests" "--gtest_filter=SwapTest.SwapTwiceRestoresValues" "--gtest_also_run_disabled_tests"
+Directory: /home/madhava/CPP_Practice/CPP_Programs/Functions_Practice/build/tests
+"SwapTest.SwapTwiceRestoresValues" start time: Apr 24 15:29 IST
+Output:
+----------------------------------------------------------
+Running main() from /home/madhava/CPP_Practice/CPP_Programs/Functions_Practice/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = SwapTest.SwapTwiceRestoresValues
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SwapTest
+[ RUN      ] SwapTest.SwapTwiceRestoresValues
+[       OK ] SwapTest.SwapTwiceRestoresValues (0 ms)
+[----------] 1 test from SwapTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"SwapTest.SwapTwiceRestoresValues" end time: Apr 24 15:29 IST
+"SwapTest.SwapTwiceRestoresValues" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 24 15:29 IST

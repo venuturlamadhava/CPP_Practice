@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/functions_main.dir/main.cpp.o -o functions_main  libfunctions_lib.a 
